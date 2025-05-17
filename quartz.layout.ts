@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "© Spatial Eye 2022-2025": "https://documentation.spatial-eye.com/spw/2024_1/en/f9b4c64a-8d44-4a34-ae2a-19f0be0522e1.htm",
+      "Spatial Eye documentation": "https://documentation.spatial-eye.com/",
+      "Geospatial Analysis documentation": "https://documentation.geospatialanalysis.online/",
     },
   }),
 }
